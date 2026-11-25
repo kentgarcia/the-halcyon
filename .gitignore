@@ -1,0 +1,15 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# Local MCP server installs (reinstall with `npm ci` in the folder; see tools/mcp/README.md)
+node_modules/
+build/
+
+# Local-only
+.godot_bin
+__pycache__/
+*.pyc
+.claude/
+.mcp.json
+CLAUDE.md

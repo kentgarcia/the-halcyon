@@ -1,0 +1,17 @@
+; The break room. Warm and fully lit: cooler and cabinets on the north wall, the PA horn over the tables, a charger by the east door.
+id: yel_rest_breakroom
+beat: rest
+floors: yellow
+tags: lit, rest, office
+weight: 1
+ceiling: small
+---
+###############
+#kk.wk...m..aa#
+#..L...L...L..#
+#.............#
+4.............>
+#....q....q...#
+#qL.qdqL.qdq.L#
+#aq..e..p.q.ar#
+###############

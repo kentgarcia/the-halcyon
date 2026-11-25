@@ -1,0 +1,16 @@
+; Coat check closet.
+id: lob_closet_coat
+beat: side
+floors: lobby
+tags: closet
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+#########
+#HH.L..k#
+#......i#
+4...z...#
+#i.....H#
+#########

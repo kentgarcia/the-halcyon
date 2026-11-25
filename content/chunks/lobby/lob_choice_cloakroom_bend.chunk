@@ -1,0 +1,24 @@
+; Cloakroom: a bent corridor of wardrobes (a hide behind every coat).
+id: lob_choice_cloakroom_bend
+beat: choice
+floors: lobby
+tags: cloakroom, warm, wardrobes
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+############^###########
+#.HH.HH.p.......HH.Hg..#
+4..L....L....l....L..L.#
+#a........a...dq.......#
+###################a...#
+###################.L.H#
+###################....>
+###################..lH#
+#######a...............#
+######<..L..l...L...L..#
+#######.g..H..H...H.H..#
+########################
+########################
+########################

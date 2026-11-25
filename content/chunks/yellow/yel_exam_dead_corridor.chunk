@@ -1,0 +1,20 @@
+; THE DEAD CORRIDOR. Two wide, 24 long, every panel on the switchable circuit (dead until a breaker relights it).
+; Entry at the west end, the exit door at the far east end. Four anchors (u) where the Hum can stand; nooks with desks and a locker to hide in.
+id: yel_exam_dead_corridor
+beat: exam
+floors: yellow
+tags: dead_corridor, dark, office
+weight: 2
+max_per_floor: 1
+ceiling: small
+decay: 1
+---
+##########################
+######phk#####dh.#########
+######...#####..q#########
+#n.S...S...Su..S...S..uS.>
+4..g.u...........u.....gC#
+##########...######...####
+##########zHe######dha####
+##########################
+##########################

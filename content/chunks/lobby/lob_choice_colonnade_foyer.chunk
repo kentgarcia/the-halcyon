@@ -1,0 +1,21 @@
+; Colonnade foyer: two pillar rows flank a 3-wide axis; doors on every side but the one you came in.
+id: lob_choice_colonnade_foyer
+beat: choice
+floors: lobby
+tags: colonnade, warm, symmetrical
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+##########^##########
+#a.p..C.......C..p.a#
+#...L.....L.....L...#
+#H..P.L.P...P.L.P..H#
+#..L......a......L..#
+4...L.a...L...a.L...>
+#..l......a......l..#
+#H..P.L.P...P.L.P..H#
+#...l.....L.....l...#
+#a.p..g.......g..p.a#
+##########v##########

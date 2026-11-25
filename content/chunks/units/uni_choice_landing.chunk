@@ -1,0 +1,23 @@
+; A stairwell-less landing: the stairs should be here, but a sealed core fills the middle and the corridor wraps round it. A door on each side but the west.
+id: uni_choice_landing
+beat: choice
+floors: units
+tags: landing, residential
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+#######^#######
+#a.......T...a#
+#.L...l.....l.#
+#....p.n.C....#
+#g..PPPPPPP...#
+#.lwPPPPPPPp.T#
+4...PPPPPPP...>
+#..HPPPPPPPCl.#
+#...PPPPPPP...#
+#....H...H..ig#
+#.l.....l...l.#
+#a...T.......a#
+#######v#######

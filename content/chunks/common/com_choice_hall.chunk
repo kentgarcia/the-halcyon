@@ -1,0 +1,17 @@
+; Neutral hall: four columns break the sightline from the west door to the far east door.
+; N and S doors sit off to the sides. A dead panel at the heart of the room.
+id: com_choice_hall
+beat: choice
+ceiling: medium
+tags: office
+weight: 0.4
+---
+########^##########
+#..L....l....L....#
+#g...P.......P...g#
+#.................#
+4....L.......l....>
+#.................#
+#...P.........P...#
+#.H..L....L....Hz.#
+############v######

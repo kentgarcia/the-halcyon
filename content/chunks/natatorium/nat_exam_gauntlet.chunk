@@ -1,0 +1,22 @@
+; Whistle exam, long variant: a straight lane to the chair between wall peninsulas with lockers on every face.
+id: nat_exam_gauntlet
+beat: exam
+floors: natatorium
+tags: whistle, lifeguard_chair, lockers
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+###########^###########################
+#.g...HPPH..........HPPH...........e..#
+#.....HPP.........l.HPP..l...........n#
+#H.L...PPH.L.........PPH.......l...L..#
+#.......H......L...W..H..............P#
+4...W..L....W...........L.W...L.W....u#
+#..............H......L......H.......P#
+#H.L..........PPH..l........PPH....L..#
+#..........L.HPP..........lHPP..L.....#
+#.g..........HPPH..........HPPH....e..#
+#########################v#############
+#######################################

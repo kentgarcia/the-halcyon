@@ -1,0 +1,28 @@
+; The records hall: four ranks of filing cabinets mounted on pillar spines, 3-wide aisles between them,
+; and a wide concourse across the middle. Entry west (and south), exits north and east.
+id: blu_long_records_hall
+beat: long
+floors: blue
+tags: hall, records
+ceiling: large
+weight: 1.0
+max_per_floor: 1
+decay: 1
+---
+#################^###############
+#..kkk......................kk..#
+#..........................i....#
+#..L....Pk.L.kPk.L.kPk.l.kP..l.g#
+#.......Pk...kPk...kPk...kP.....#
+#.......Pk...kPk...kPk...kP.....#
+#g......C......................x#
+#..........h...........h........#
+4.....L.......l.....l.......L...>
+#................h..............#
+#p...dd.............C...........#
+#H......Pk...kPk...kPk...kP....H#
+#H......Pk.l.kPk.l.kPk.l.kP....H#
+#H.l....Pk...kPk...kPk...kP..l..#
+#....i.........................p#
+#..kk...............g...........#
+#######################3#########

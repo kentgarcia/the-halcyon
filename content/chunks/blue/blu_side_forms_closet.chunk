@@ -1,0 +1,17 @@
+; Forms closet: cabinets, a pair of desks to hide under, a loot item.
+id: blu_side_forms_closet
+beat: side
+floors: blue
+tags: closet, forms
+ceiling: medium
+weight: 1.0
+max_per_floor: 2
+decay: 0
+---
+#########
+#kk.L.kk#
+#.......#
+4..hh.i.#
+#.......#
+#.l...ap#
+#########

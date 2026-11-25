@@ -1,0 +1,17 @@
+; Neutral T-junction: arrive up the stem, three doors waiting at the bar. The dead lamp in the stem is the tell.
+id: com_choice_tee
+beat: choice
+ceiling: medium
+tags: office
+weight: 0.4
+---
+#########^##########
+#..L...l...L....L.z#
+<..................>
+#.HL.......L..l..H.#
+########...#########
+########.L.#########
+########g.l#########
+########...#########
+########..a#########
+#########3##########

@@ -1,0 +1,14 @@
+; Janitor's closet: the lamp is dead, a locker holds the mops and a wet-floor sign guards the door.
+id: yel_side_closet_janitor
+beat: side
+floors: yellow
+ceiling: small
+tags: closet
+weight: 1
+---
+#######
+#H.z.i#
+#.....#
+#.l...#
+#...W.#
+###3###

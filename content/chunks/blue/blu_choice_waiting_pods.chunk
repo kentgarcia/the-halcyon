@@ -1,0 +1,21 @@
+; Four back-to-back chair islands around a cross of aisles; doors on all sides but the east one is the nearest.
+id: blu_choice_waiting_pods
+beat: choice
+floors: blue
+tags: waiting
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+########^########
+#..L..C...p..L..#
+#a..qqq...qqq...#
+#...qqq.l.qqq..w#
+#.............i.#
+4....L..L..l....>
+#...............#
+#g..qqq.L.qqq..H#
+#...qqq...qqq..H#
+#..l.g........L.#
+########v########

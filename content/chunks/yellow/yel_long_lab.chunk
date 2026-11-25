@@ -1,0 +1,26 @@
+; THE LAB. A pillar hall with the manager's glass-fronted office in the north-west corner.
+; From the desk the doorway looks east down the row-2 lane: six S panels (the switch circuit) then a dead stretch, then the far end where the silhouette stands (u at 25,2).
+; Switch s is on the office wall. The office front is thin 'glass' with a 2-tile doorway (x5, y2..3).
+id: yel_long_lab
+beat: long
+floors: yellow
+tags: lab, office, pillars
+weight: 2
+max_per_floor: 1
+ceiling: large
+---
+############################
+#k.d.|......g...k....dhd..z#
+#sLq..L...S...S...S...l..ul#
+#a......P...P...P...P...P..#
+#____+.....................#
+#.....L...S...S...S...l...L>
+#H.........................#
+#.......P...P...P...P...P.g#
+#..........................#
+4.....L...L...L...l...l...l#
+#.....................u....#
+#x......P...P...P...P...P.H#
+#.....L...l...L...l...l...L#
+#H.dhd.kk..dhd......g.....a#
+##################v#########

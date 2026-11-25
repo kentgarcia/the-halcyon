@@ -1,0 +1,17 @@
+; The Greeter (SPEC 6.6): a 3-wide, 30-long hotel corridor. He stands in the doorframe at the far (east) end:
+; the 'u' sits in a one-tile recess in the end wall. Wardrobes stagger along both walls (the hiding places);
+; two doors (north near the end, south mid-way) are the exits; trays sit beside the doors.
+id: uni_exam_greeter_corridor
+beat: exam
+floors: units
+tags: exam, corridor
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 1
+---
+###########################^######
+#..w.H....H..p.H......H...T.T.T###
+4.L...L...l...L...l...L...l..L.u##
+#a.....H....H.i..H.T.T..pH....T###
+####################v#############

@@ -1,0 +1,18 @@
+; Lifeguards' room: warm, fully lit, charger by the door.
+id: nat_rest_guard_room
+beat: rest
+floors: natatorium
+tags: lit, warm, rest
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+#############
+#L..m..p..L.#
+#a.........a#
+4.dd..q.q...#
+#.....L.....>
+#C.q.q.....w#
+#.r......L..#
+#############

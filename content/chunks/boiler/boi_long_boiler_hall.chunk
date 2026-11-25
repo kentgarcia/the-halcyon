@@ -1,0 +1,28 @@
+; THE boiler hall: six staggered boiler blocks, a thin-wall catwalk down the middle, a bright work bay west and a dead patch in the middle.
+id: boi_long_boiler_hall
+beat: long
+floors: boiler
+tags: boiler_hall, catwalk, cupboards
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+############^#######################
+#.g.PPPPPH....PPPPPn..H.PPPPP..b.x.#
+#...PPPPP.....PPPPP.....PPPPP......#
+#H..PPPPP..L..PPPPP..l..PPPPP..L..H#
+#...PPPPP.....PPPPP.....PPPPP......#
+#.L...H.........H.........H........#
+#H.........L....L...............L.g#
+#.....______..______.._________....#
+#.........L.....l.......l...l......>
+4.L...______..______.._________....#
+#..................................#
+#......L.......L..l......l.......L.#
+#H........H.........H.........H...H#
+#.L.....PPPPP.....PPPPP.....PPPPP..#
+#....l..PPPPP..l..PPPPP..l..PPPPPL.#
+#H......PPPPP.....PPPPP.....PPPPP.H#
+#...H.n.PPPPP.H...PPPPP..n.HPPPPP..#
+####################################

@@ -1,0 +1,20 @@
+; Z-jog gallery around a pressure vessel: a cupboard bank, gauges, a breaker panel.
+id: boi_choice_gauge_gallery
+beat: choice
+floors: boiler
+tags: gauges, service, cupboards
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+##############################
+################^#############
+4.HH..nLHH...l.....###########
+#..nLb.n.g.L.....l.###########
+###########...PP..H###########
+###########H..PP...###########
+###########.L....l..n..g.Ln..>
+###########........H.lHH...Hl#
+##############v###############
+##############################

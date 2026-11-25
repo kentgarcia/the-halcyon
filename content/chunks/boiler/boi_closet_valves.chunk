@@ -1,0 +1,17 @@
+; Valve store.
+id: boi_closet_valves
+beat: side
+floors: boiler
+tags: closet
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+#########
+#.L..z.i#
+#H.....z#
+4.......#
+#..i..L.#
+#n......#
+#########

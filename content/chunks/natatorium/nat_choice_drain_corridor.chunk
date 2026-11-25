@@ -1,0 +1,20 @@
+; S-bend service corridor with a floor gutter and drain vents.
+id: nat_choice_drain_corridor
+beat: choice
+floors: natatorium
+tags: drain, corridor, vents
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+##########################
+4.Hg....Le..p..n.#########
+#,,L,,,,,,W,l,,,,#########
+######v########,l#########
+###############,e#########
+###############W.#########
+###############Lg#########
+###############,.WlH..HHl#
+##############<,,e,eHL,,,>
+##########################

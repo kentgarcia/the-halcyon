@@ -1,0 +1,17 @@
+; Records closet: cabinets, boxes, lockers in the corners.
+id: blu_side_records_closet
+beat: side
+floors: blue
+tags: closet, records
+ceiling: medium
+weight: 1.0
+max_per_floor: 2
+decay: 0
+---
+#########
+#kkLkk..#
+#.......#
+4.......#
+#i.l.zz.#
+#H.....H#
+#########

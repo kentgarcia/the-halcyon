@@ -1,0 +1,23 @@
+; T-junction: a lit bench corridor by the entry fading into dark, a stem running south; doors east, north and at the end of the stem.
+id: blu_choice_t_bench
+beat: choice
+floors: blue
+tags: corridor, bench
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+###############^#######
+#.qqqq.......l.......a#
+4..L...L..........l...>
+#g...........qqqq..gl.#
+#########...###########
+#########.lH###########
+#########C..###########
+#########..p###########
+#########Hl.###########
+#########.i.###########
+#########g.w###########
+#########.l.###########
+##########v############

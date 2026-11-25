@@ -1,0 +1,13 @@
+; Breaker corridor: a narrow dead end, the panel on the far wall. A locker half way to wait in.
+id: yel_side_breaker_panel
+beat: side
+floors: yellow
+ceiling: small
+tags: breaker, ctl_exam
+weight: 1
+---
+############
+#.....L....#
+4.........b#
+#.H....l...#
+############

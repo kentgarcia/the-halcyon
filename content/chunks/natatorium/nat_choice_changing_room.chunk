@@ -1,0 +1,21 @@
+; Changing room: locker banks on both long walls and a free-standing thin-wall locker island in the middle.
+id: nat_choice_changing_room
+beat: choice
+floors: natatorium
+tags: changing, lockers
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+###^################
+#....HH.HH..HH.HHg.#
+#q.L..............L#
+#q...l.L...l...L..n#
+#..................#
+4...____________..H#
+#.......W..L.......#
+#q.L....L...l...l..>
+#q...............W.#
+#H.g.HH.HH.....HH..#
+############v#######

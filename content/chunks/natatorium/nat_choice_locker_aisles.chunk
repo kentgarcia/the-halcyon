@@ -1,0 +1,23 @@
+; Vertical locker banks (P) with H on both faces: aisles that never line up.
+id: nat_choice_locker_aisles
+beat: choice
+floors: natatorium
+tags: lockers, maze
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+#############^######
+#.g...............n#
+#..L.P..l...L..P.L.#
+#...HP........HP...#
+#...HP..l.P....PH..#
+#....PH..HP....PH..#
+<..L.PH..HP..l.P..n#
+#...HP..L.P...HP.l.#
+#....P....PH..HP...#
+#......W..PH.......>
+#..l.....HP..L....g#
+#W.....L.........l.#
+#########3##########

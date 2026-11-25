@@ -1,0 +1,15 @@
+; Utility room: the breaker panel on the north wall, vents, a hazard sign, spare tubes in a crate.
+id: yel_side_breaker_utility
+beat: side
+floors: yellow
+ceiling: small
+tags: breaker, ctl_exam
+weight: 1
+---
+#######
+#e.b.n#
+#.....#
+#.zL..#
+#....H#
+#.....#
+###3###

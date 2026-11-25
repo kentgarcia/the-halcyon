@@ -1,0 +1,10 @@
+id: dev_corridor
+beat: choice
+floors: yellow
+ceiling: medium
+---
+###############
+#.L...L...L...#
+4.............>
+#.....L.....L.#
+###############

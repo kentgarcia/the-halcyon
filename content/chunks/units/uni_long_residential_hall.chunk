@@ -1,0 +1,21 @@
+; A very long residential hall (43 tiles): numbered doors are the alcoves, a five-tall landing bay in the middle
+; with a settee, cooler and the suggestion box. Entries west and north (bay), exits north, south (bay) and east.
+; Wardrobes line the walls: the hiding places.
+id: uni_long_residential_hall
+beat: long
+floors: units
+tags: hall, residential
+ceiling: large
+weight: 1.0
+max_per_floor: 1
+decay: 1
+---
+#############################################
+######################1######################
+###########^######a.qT..q.a##################
+#a.CH.......T.H.....L...L.....g.H.......H..T#
+4.L...L...l...L.i.....L.......l...L.i.l...L.>
+#T......H....g......l...L....H...H....g..H.a#
+##################a.w..Tx.a##################
+######################v######################
+#############################################

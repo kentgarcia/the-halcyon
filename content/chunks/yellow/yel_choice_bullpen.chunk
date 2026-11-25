@@ -1,0 +1,18 @@
+; Cubicle bullpen: pods along the north and south walls (thin partitions), a lit stretch by the door and a dead stretch mid-aisle.
+; A free-standing partition in the east half hides the east door from the west door; go round it.
+id: yel_choice_bullpen
+beat: choice
+floors: yellow
+tags: office, cubicles
+weight: 1
+ceiling: medium
+---
+##############^#####
+#d|h|d|d|.gp.L...wa#
+#q|.|q|.|.........L#
+#..............|...#
+4.L...L...l...l|...>
+#..............|...#
+#.....|q|.|q|.....l#
+#Hk.kd|d|h|d|...g.z#
+###v################

@@ -1,0 +1,27 @@
+; The grand hall: red runner down the axis, reception desks in rows, pillar rows, plants; one dead chandelier at the very centre.
+id: lob_long_grand_hall
+beat: long
+floors: lobby
+tags: grand, reception, symmetrical
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+###############^###############
+#a.H.H.m...m.C...C.m...m.H.H.a#
+#..La..L...la..L..al...L..aL..#
+#.............................#
+#H.P...P...P...P...P...P...P.H#
+#...Lq..hq.L...L...L.qh..qL...#
+#....dd..dd...ddd...dd..dd....#
+#,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#
+4L,L,,,L,,,L,,,l,,,L,,,L,,,L,L>
+#,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#
+#....dd..dd...ddd...dd..dd....#
+#...Lq..hq.l...L...l.qh..qL...#
+#H.P...P...P...P...P...P...P.H#
+#.............................#
+#..La..L...La.aL..aL...L..aL..#
+#a.p.HHp....H..x..H....pHH.p.a#
+###############################

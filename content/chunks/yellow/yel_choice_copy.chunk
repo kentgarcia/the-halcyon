@@ -1,0 +1,19 @@
+; The copy room: shelving blocks (P) break the line from the west door to the east door; copiers on the east wall;
+; the suggestion box hangs by the cooler. One lit lamp in the centre aisle, a dead patch to the north and south.
+id: yel_choice_copy
+beat: choice
+floors: yellow
+tags: office, copy
+weight: 1
+ceiling: medium
+---
+########^#######
+#kkk...p....xw.#
+#..L....l....L.#
+#H...P.........>
+#....P........d#
+4....P.L..P...d#
+#.........P..lz#
+#..L......P...z#
+#gh.g..l.....zz#
+###########v####

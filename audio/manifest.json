@@ -1,0 +1,1395 @@
+{
+ "sounds": {
+  "amb_hum_bed": {
+   "files": [
+    "res://audio/amb/amb_hum_bed.wav"
+   ],
+   "loop": true,
+   "bus": "Hum",
+   "db": -22.0,
+   "dur": 8.0,
+   "group": "ambience"
+  },
+  "amb_buzz_cell": {
+   "files": [
+    "res://audio/amb/amb_buzz_cell.wav"
+   ],
+   "loop": true,
+   "bus": "Hum",
+   "db": -20.0,
+   "dur": 4.0,
+   "group": "ambience"
+  },
+  "amb_dark_pressure": {
+   "files": [
+    "res://audio/amb/amb_dark_pressure.wav"
+   ],
+   "loop": true,
+   "bus": "Dread",
+   "db": -24.0,
+   "dur": 10.0,
+   "group": "ambience"
+  },
+  "amb_dread_drone": {
+   "files": [
+    "res://audio/amb/amb_dread_drone.wav"
+   ],
+   "loop": true,
+   "bus": "Dread",
+   "db": -22.0,
+   "dur": 12.0,
+   "group": "dread"
+  },
+  "amb_heartbeat": {
+   "files": [
+    "res://audio/amb/amb_heartbeat.wav"
+   ],
+   "loop": true,
+   "bus": "Dread",
+   "db": -14.0,
+   "dur": 1.0,
+   "group": "dread"
+  },
+  "amb_boiler_rumble": {
+   "files": [
+    "res://audio/amb/amb_boiler_rumble.wav"
+   ],
+   "loop": true,
+   "bus": "World",
+   "db": -20.0,
+   "dur": 10.0,
+   "group": "ambience"
+  },
+  "amb_pool_water": {
+   "files": [
+    "res://audio/amb/amb_pool_water.wav"
+   ],
+   "loop": true,
+   "bus": "World",
+   "db": -22.0,
+   "dur": 12.0,
+   "group": "ambience"
+  },
+  "amb_queue_whispers": {
+   "files": [
+    "res://audio/amb/amb_queue_whispers.wav"
+   ],
+   "loop": true,
+   "bus": "World",
+   "db": -26.0,
+   "dur": 8.0,
+   "group": "ambience"
+  },
+  "amb_lobby_warm": {
+   "files": [
+    "res://audio/amb/amb_lobby_warm.wav"
+   ],
+   "loop": true,
+   "bus": "World",
+   "db": -24.0,
+   "dur": 10.0,
+   "group": "ambience"
+  },
+  "muzak_elevator": {
+   "files": [
+    "res://audio/music/muzak_elevator.ogg"
+   ],
+   "loop": true,
+   "bus": "Muzak",
+   "db": -16.0,
+   "dur": 40.0,
+   "group": "music"
+  },
+  "elevator_hum": {
+   "files": [
+    "res://audio/sfx/elevator_hum.wav"
+   ],
+   "loop": true,
+   "bus": "World",
+   "db": -20.0,
+   "dur": 6.0,
+   "group": "elevator"
+  },
+  "step_carpet": {
+   "files": [
+    "res://audio/sfx/step_carpet_1.wav",
+    "res://audio/sfx/step_carpet_2.wav",
+    "res://audio/sfx/step_carpet_3.wav",
+    "res://audio/sfx/step_carpet_4.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 0.35,
+   "group": "foley"
+  },
+  "step_concrete": {
+   "files": [
+    "res://audio/sfx/step_concrete_1.wav",
+    "res://audio/sfx/step_concrete_2.wav",
+    "res://audio/sfx/step_concrete_3.wav",
+    "res://audio/sfx/step_concrete_4.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.4,
+   "group": "foley"
+  },
+  "step_tile": {
+   "files": [
+    "res://audio/sfx/step_tile_1.wav",
+    "res://audio/sfx/step_tile_2.wav",
+    "res://audio/sfx/step_tile_3.wav",
+    "res://audio/sfx/step_tile_4.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.45,
+   "group": "foley"
+  },
+  "step_water": {
+   "files": [
+    "res://audio/sfx/step_water_1.wav",
+    "res://audio/sfx/step_water_2.wav",
+    "res://audio/sfx/step_water_3.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.6,
+   "group": "foley"
+  },
+  "step_metal": {
+   "files": [
+    "res://audio/sfx/step_metal_1.wav",
+    "res://audio/sfx/step_metal_2.wav",
+    "res://audio/sfx/step_metal_3.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.5,
+   "group": "foley"
+  },
+  "door_open": {
+   "files": [
+    "res://audio/sfx/door_open_1.wav",
+    "res://audio/sfx/door_open_2.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 1.0,
+   "group": "door"
+  },
+  "door_close": {
+   "files": [
+    "res://audio/sfx/door_close_1.wav",
+    "res://audio/sfx/door_close_2.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.8,
+   "group": "door"
+  },
+  "door_creak": {
+   "files": [
+    "res://audio/sfx/door_creak.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 2.2,
+   "group": "door"
+  },
+  "door_handle_try": {
+   "files": [
+    "res://audio/sfx/door_handle_try.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 1.6,
+   "group": "door"
+  },
+  "door_brace_rattle": {
+   "files": [
+    "res://audio/sfx/door_brace_rattle.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -10.0,
+   "dur": 2.5,
+   "group": "door"
+  },
+  "door_locked": {
+   "files": [
+    "res://audio/sfx/door_locked.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.7,
+   "group": "door"
+  },
+  "fire_door_bar": {
+   "files": [
+    "res://audio/sfx/fire_door_bar.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -9.0,
+   "dur": 0.9,
+   "group": "door"
+  },
+  "wardrobe_open": {
+   "files": [
+    "res://audio/sfx/wardrobe_open.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 1.0,
+   "group": "door"
+  },
+  "wardrobe_close": {
+   "files": [
+    "res://audio/sfx/wardrobe_close.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 0.7,
+   "group": "door"
+  },
+  "locker_open": {
+   "files": [
+    "res://audio/sfx/locker_open.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.8,
+   "group": "door"
+  },
+  "locker_close": {
+   "files": [
+    "res://audio/sfx/locker_close.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.7,
+   "group": "door"
+  },
+  "switch_click": {
+   "files": [
+    "res://audio/sfx/switch_click.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -10.0,
+   "dur": 0.15,
+   "group": "interact"
+  },
+  "breaker_thunk": {
+   "files": [
+    "res://audio/sfx/breaker_thunk.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -8.0,
+   "dur": 0.9,
+   "group": "interact"
+  },
+  "bulb_pop": {
+   "files": [
+    "res://audio/sfx/bulb_pop.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -10.0,
+   "dur": 0.6,
+   "group": "interact"
+  },
+  "bulb_flicker": {
+   "files": [
+    "res://audio/sfx/bulb_flicker.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 1.0,
+   "group": "interact"
+  },
+  "bulb_insert": {
+   "files": [
+    "res://audio/sfx/bulb_insert.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.5,
+   "group": "interact"
+  },
+  "bulb_remove": {
+   "files": [
+    "res://audio/sfx/bulb_remove.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.5,
+   "group": "interact"
+  },
+  "pickup_item": {
+   "files": [
+    "res://audio/sfx/pickup_item.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.3,
+   "group": "interact"
+  },
+  "drop_item": {
+   "files": [
+    "res://audio/sfx/drop_item.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.4,
+   "group": "interact"
+  },
+  "key_jingle": {
+   "files": [
+    "res://audio/sfx/key_jingle.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 0.8,
+   "group": "interact"
+  },
+  "battery_pickup": {
+   "files": [
+    "res://audio/sfx/battery_pickup.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 0.4,
+   "group": "interact"
+  },
+  "box_slot": {
+   "files": [
+    "res://audio/sfx/box_slot.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 0.6,
+   "group": "interact"
+  },
+  "card_flip": {
+   "files": [
+    "res://audio/sfx/card_flip.wav"
+   ],
+   "loop": false,
+   "bus": "UI",
+   "db": -12.0,
+   "dur": 0.4,
+   "group": "ui"
+  },
+  "notebook_page": {
+   "files": [
+    "res://audio/sfx/notebook_page.wav"
+   ],
+   "loop": false,
+   "bus": "UI",
+   "db": -12.0,
+   "dur": 0.35,
+   "group": "ui"
+  },
+  "stamp_thud": {
+   "files": [
+    "res://audio/sfx/stamp_thud.wav"
+   ],
+   "loop": false,
+   "bus": "UI",
+   "db": -10.0,
+   "dur": 0.4,
+   "group": "ui"
+  },
+  "pen_scratch": {
+   "files": [
+    "res://audio/sfx/pen_scratch.wav"
+   ],
+   "loop": false,
+   "bus": "UI",
+   "db": -16.0,
+   "dur": 0.5,
+   "group": "ui"
+  },
+  "ui_click": {
+   "files": [
+    "res://audio/sfx/ui_click.wav"
+   ],
+   "loop": false,
+   "bus": "UI",
+   "db": -14.0,
+   "dur": 0.1,
+   "group": "ui"
+  },
+  "ui_back": {
+   "files": [
+    "res://audio/sfx/ui_back.wav"
+   ],
+   "loop": false,
+   "bus": "UI",
+   "db": -16.0,
+   "dur": 0.12,
+   "group": "ui"
+  },
+  "cam_raise": {
+   "files": [
+    "res://audio/sfx/cam_raise.wav"
+   ],
+   "loop": false,
+   "bus": "Tape",
+   "db": -12.0,
+   "dur": 0.5,
+   "group": "camcorder"
+  },
+  "cam_lower": {
+   "files": [
+    "res://audio/sfx/cam_lower.wav"
+   ],
+   "loop": false,
+   "bus": "Tape",
+   "db": -14.0,
+   "dur": 0.4,
+   "group": "camcorder"
+  },
+  "cam_rec_beep": {
+   "files": [
+    "res://audio/sfx/cam_rec_beep.wav"
+   ],
+   "loop": false,
+   "bus": "Tape",
+   "db": -14.0,
+   "dur": 0.25,
+   "group": "camcorder"
+  },
+  "cam_lamp_click": {
+   "files": [
+    "res://audio/sfx/cam_lamp_click.wav"
+   ],
+   "loop": false,
+   "bus": "Tape",
+   "db": -12.0,
+   "dur": 0.12,
+   "group": "camcorder"
+  },
+  "cam_tape_insert": {
+   "files": [
+    "res://audio/sfx/cam_tape_insert.wav"
+   ],
+   "loop": false,
+   "bus": "Tape",
+   "db": -12.0,
+   "dur": 0.9,
+   "group": "camcorder"
+  },
+  "cam_playback_loop": {
+   "files": [
+    "res://audio/sfx/cam_playback_loop.wav"
+   ],
+   "loop": true,
+   "bus": "Tape",
+   "db": -20.0,
+   "dur": 2.0,
+   "group": "camcorder"
+  },
+  "cam_rewind_loop": {
+   "files": [
+    "res://audio/sfx/cam_rewind_loop.wav"
+   ],
+   "loop": true,
+   "bus": "Tape",
+   "db": -18.0,
+   "dur": 1.5,
+   "group": "camcorder"
+  },
+  "cam_freeze_shutter": {
+   "files": [
+    "res://audio/sfx/cam_freeze_shutter.wav"
+   ],
+   "loop": false,
+   "bus": "Tape",
+   "db": -12.0,
+   "dur": 0.3,
+   "group": "camcorder"
+  },
+  "cam_plant_thunk": {
+   "files": [
+    "res://audio/sfx/cam_plant_thunk.wav"
+   ],
+   "loop": false,
+   "bus": "Tape",
+   "db": -12.0,
+   "dur": 0.4,
+   "group": "camcorder"
+  },
+  "cam_battery_low": {
+   "files": [
+    "res://audio/sfx/cam_battery_low.wav"
+   ],
+   "loop": false,
+   "bus": "Tape",
+   "db": -14.0,
+   "dur": 1.0,
+   "group": "camcorder"
+  },
+  "tape_glitch": {
+   "files": [
+    "res://audio/sfx/tape_glitch.wav"
+   ],
+   "loop": false,
+   "bus": "Tape",
+   "db": -14.0,
+   "dur": 0.4,
+   "group": "camcorder"
+  },
+  "elevator_ding": {
+   "files": [
+    "res://audio/sfx/elevator_ding.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 1.6,
+   "group": "elevator"
+  },
+  "elevator_doors_open": {
+   "files": [
+    "res://audio/sfx/elevator_doors_open.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 2.0,
+   "group": "elevator"
+  },
+  "elevator_doors_close": {
+   "files": [
+    "res://audio/sfx/elevator_doors_close.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 2.0,
+   "group": "elevator"
+  },
+  "elevator_start": {
+   "files": [
+    "res://audio/sfx/elevator_start.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 2.0,
+   "group": "elevator"
+  },
+  "elevator_stop_wrong": {
+   "files": [
+    "res://audio/sfx/elevator_stop_wrong.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -10.0,
+   "dur": 2.5,
+   "group": "elevator"
+  },
+  "ceiling_creak": {
+   "files": [
+    "res://audio/sfx/ceiling_creak_1.wav",
+    "res://audio/sfx/ceiling_creak_2.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 2.0,
+   "group": "scare"
+  },
+  "ceiling_tile_shift": {
+   "files": [
+    "res://audio/sfx/ceiling_tile_shift.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 1.0,
+   "group": "scare"
+  },
+  "distant_door_close": {
+   "files": [
+    "res://audio/sfx/distant_door_close.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -16.0,
+   "dur": 1.5,
+   "group": "scare"
+  },
+  "knock_slow": {
+   "files": [
+    "res://audio/sfx/knock_slow.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -8.0,
+   "dur": 3.5,
+   "group": "scare"
+  },
+  "knock_irregular": {
+   "files": [
+    "res://audio/sfx/knock_irregular.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -8.0,
+   "dur": 3.5,
+   "group": "scare"
+  },
+  "wrench_scrape_loop": {
+   "files": [
+    "res://audio/sfx/wrench_scrape_loop.wav"
+   ],
+   "loop": true,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 3.0,
+   "group": "entity"
+  },
+  "alarm_loop": {
+   "files": [
+    "res://audio/sfx/alarm_loop.wav"
+   ],
+   "loop": true,
+   "bus": "World",
+   "db": -10.0,
+   "dur": 4.0,
+   "group": "entity"
+  },
+  "whistle_blast": {
+   "files": [
+    "res://audio/sfx/whistle_blast_1.wav",
+    "res://audio/sfx/whistle_blast_2.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -8.0,
+   "dur": 1.4,
+   "group": "entity"
+  },
+  "water_ripple": {
+   "files": [
+    "res://audio/sfx/water_ripple.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -18.0,
+   "dur": 2.0,
+   "group": "entity"
+  },
+  "bell_ding": {
+   "files": [
+    "res://audio/sfx/bell_ding.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -10.0,
+   "dur": 1.8,
+   "group": "entity"
+  },
+  "cart_squeak_loop": {
+   "files": [
+    "res://audio/sfx/cart_squeak_loop.wav"
+   ],
+   "loop": true,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 2.0,
+   "group": "entity"
+  },
+  "cart_stop": {
+   "files": [
+    "res://audio/sfx/cart_stop.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -14.0,
+   "dur": 1.2,
+   "group": "entity"
+  },
+  "hum_drop": {
+   "files": [
+    "res://audio/sfx/hum_drop.wav"
+   ],
+   "loop": false,
+   "bus": "Hum",
+   "db": -16.0,
+   "dur": 2.5,
+   "group": "entity"
+  },
+  "hum_rise": {
+   "files": [
+    "res://audio/sfx/hum_rise.wav"
+   ],
+   "loop": false,
+   "bus": "Hum",
+   "db": -16.0,
+   "dur": 2.5,
+   "group": "entity"
+  },
+  "queue_chime": {
+   "files": [
+    "res://audio/sfx/queue_chime.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 1.2,
+   "group": "entity"
+  },
+  "greeter_bell": {
+   "files": [
+    "res://audio/sfx/greeter_bell.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -12.0,
+   "dur": 1.2,
+   "group": "entity"
+  },
+  "hit_thud": {
+   "files": [
+    "res://audio/sfx/hit_thud.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -8.0,
+   "dur": 0.6,
+   "group": "scare"
+  },
+  "blackout_whoomp": {
+   "files": [
+    "res://audio/sfx/blackout_whoomp.wav"
+   ],
+   "loop": false,
+   "bus": "Dread",
+   "db": -8.0,
+   "dur": 2.5,
+   "group": "scare"
+  },
+  "tinnitus_ring": {
+   "files": [
+    "res://audio/sfx/tinnitus_ring.wav"
+   ],
+   "loop": false,
+   "bus": "Dread",
+   "db": -18.0,
+   "dur": 3.0,
+   "group": "dread"
+  },
+  "stinger_low": {
+   "files": [
+    "res://audio/sfx/stinger_low.wav"
+   ],
+   "loop": false,
+   "bus": "Dread",
+   "db": -12.0,
+   "dur": 3.0,
+   "group": "dread"
+  },
+  "whisper_numbers": {
+   "files": [
+    "res://audio/sfx/whisper_numbers.wav"
+   ],
+   "loop": false,
+   "bus": "World",
+   "db": -22.0,
+   "dur": 3.0,
+   "group": "scare"
+  },
+  "pa_chime": {
+   "files": [
+    "res://audio/sfx/pa_chime.wav"
+   ],
+   "loop": false,
+   "bus": "PA",
+   "db": -12.0,
+   "dur": 1.5,
+   "group": "pa"
+  },
+  "pa_click_on": {
+   "files": [
+    "res://audio/sfx/pa_click_on.wav"
+   ],
+   "loop": false,
+   "bus": "PA",
+   "db": -14.0,
+   "dur": 0.15,
+   "group": "pa"
+  },
+  "pa_click_off": {
+   "files": [
+    "res://audio/sfx/pa_click_off.wav"
+   ],
+   "loop": false,
+   "bus": "PA",
+   "db": -14.0,
+   "dur": 0.15,
+   "group": "pa"
+  },
+  "static_burst": {
+   "files": [
+    "res://audio/sfx/static_burst.wav"
+   ],
+   "loop": false,
+   "bus": "PA",
+   "db": -14.0,
+   "dur": 0.6,
+   "group": "pa"
+  },
+  "mic_pop": {
+   "files": [
+    "res://audio/sfx/mic_pop.wav"
+   ],
+   "loop": false,
+   "bus": "PA",
+   "db": -26.0,
+   "dur": 0.2,
+   "group": "pa"
+  }
+ },
+ "voice": {
+  "rule_b3_1": {
+   "true": "res://audio/voice/rule_b3_1_true.ogg",
+   "false": null,
+   "text": "Hard hats are not required. They are strongly encouraged.",
+   "kind": "rule",
+   "dur_true": 4.794,
+   "dur_false": null
+  },
+  "rule_b3_2": {
+   "true": "res://audio/voice/rule_b3_2_true.ogg",
+   "false": "res://audio/voice/rule_b3_2_false.ogg",
+   "text": "If an alarm sounds, leave at once through the nearest exit.",
+   "kind": "rule",
+   "dur_true": 4.4,
+   "dur_false": 4.4
+  },
+  "rule_b3_3": {
+   "true": "res://audio/voice/rule_b3_3_true.ogg",
+   "false": null,
+   "text": "Walking is encouraged. Running is not.",
+   "kind": "rule",
+   "dur_true": 3.434,
+   "dur_false": null
+  },
+  "rule_b3_4": {
+   "true": "res://audio/voice/rule_b3_4_true.ogg",
+   "false": null,
+   "text": "Do not touch the pipes. They are warm for a reason.",
+   "kind": "rule",
+   "dur_true": 4.154,
+   "dur_false": null
+  },
+  "rule_b3_5": {
+   "true": "res://audio/voice/rule_b3_5_true.ogg",
+   "false": null,
+   "text": "Doors close behind you.",
+   "kind": "rule",
+   "dur_true": 2.312,
+   "dur_false": null
+  },
+  "rule_b2_1": {
+   "true": "res://audio/voice/rule_b2_1_true.ogg",
+   "false": "res://audio/voice/rule_b2_1_false.ogg",
+   "text": "No running. When the whistle blows, stop where you stand.",
+   "kind": "rule",
+   "dur_true": 4.642,
+   "dur_false": 4.642
+  },
+  "rule_b2_2": {
+   "true": "res://audio/voice/rule_b2_2_true.ogg",
+   "false": null,
+   "text": "Please do not swim alone.",
+   "kind": "rule",
+   "dur_true": 2.432,
+   "dur_false": null
+  },
+  "rule_b2_3": {
+   "true": "res://audio/voice/rule_b2_3_true.ogg",
+   "false": null,
+   "text": "Lockers are provided for your safety.",
+   "kind": "rule",
+   "dur_true": 3.288,
+   "dur_false": null
+  },
+  "rule_b2_4": {
+   "true": "res://audio/voice/rule_b2_4_true.ogg",
+   "false": null,
+   "text": "Wet floors are not a warning. They are a description.",
+   "kind": "rule",
+   "dur_true": 4.626,
+   "dur_false": null
+  },
+  "rule_b2_5": {
+   "true": "res://audio/voice/rule_b2_5_true.ogg",
+   "false": null,
+   "text": "Doors close behind you.",
+   "kind": "rule",
+   "dur_true": 2.312,
+   "dur_false": null
+  },
+  "rule_b1_1": {
+   "true": "res://audio/voice/rule_b1_1_true.ogg",
+   "false": null,
+   "text": "Offices close at five. They do not reopen.",
+   "kind": "rule",
+   "dur_true": 4.146,
+   "dur_false": null
+  },
+  "rule_b1_2": {
+   "true": "res://audio/voice/rule_b1_2_true.ogg",
+   "false": null,
+   "text": "Quiet, please.",
+   "kind": "rule",
+   "dur_true": 1.928,
+   "dur_false": null
+  },
+  "rule_b1_3": {
+   "true": "res://audio/voice/rule_b1_3_true.ogg",
+   "false": null,
+   "text": "Forms are available at the window. The window is available when called.",
+   "kind": "rule",
+   "dur_true": 5.402,
+   "dur_false": null
+  },
+  "rule_b1_4": {
+   "true": "res://audio/voice/rule_b1_4_true.ogg",
+   "false": "res://audio/voice/rule_b1_4_false.ogg",
+   "text": "Please take a number and wait to be called. Do not leave the line.",
+   "kind": "rule",
+   "dur_true": 4.842,
+   "dur_false": 4.842
+  },
+  "rule_b1_5": {
+   "true": "res://audio/voice/rule_b1_5_true.ogg",
+   "false": null,
+   "text": "Elevators are provided for your comfort.",
+   "kind": "rule",
+   "dur_true": 3.376,
+   "dur_false": null
+  },
+  "rule_f1_1": {
+   "true": "res://audio/voice/rule_f1_1_true.ogg",
+   "false": null,
+   "text": "Walking is encouraged. Running is not.",
+   "kind": "rule",
+   "dur_true": 3.434,
+   "dur_false": null
+  },
+  "rule_f1_2": {
+   "true": "res://audio/voice/rule_f1_2_true.ogg",
+   "false": "res://audio/voice/rule_f1_2_false.ogg",
+   "text": "Lights are provided for your comfort. Please stay in them.",
+   "kind": "rule",
+   "dur_true": 4.866,
+   "dur_false": 4.866
+  },
+  "rule_f1_3": {
+   "true": "res://audio/voice/rule_f1_3_true.ogg",
+   "false": null,
+   "text": "Do not remove ceiling tiles.",
+   "kind": "rule",
+   "dur_true": 2.816,
+   "dur_false": null
+  },
+  "rule_f1_4": {
+   "true": "res://audio/voice/rule_f1_4_true.ogg",
+   "false": null,
+   "text": "Doors close behind you.",
+   "kind": "rule",
+   "dur_true": 2.312,
+   "dur_false": null
+  },
+  "rule_f1_5": {
+   "true": "res://audio/voice/rule_f1_5_true.ogg",
+   "false": null,
+   "text": "Management is always listening.",
+   "kind": "rule",
+   "dur_true": 2.824,
+   "dur_false": null
+  },
+  "rule_f2_1": {
+   "true": "res://audio/voice/rule_f2_1_true.ogg",
+   "false": null,
+   "text": "Quiet hours are observed at all hours.",
+   "kind": "rule",
+   "dur_true": 3.344,
+   "dur_false": null
+  },
+  "rule_f2_2": {
+   "true": "res://audio/voice/rule_f2_2_true.ogg",
+   "false": null,
+   "text": "Wardrobes and desks are provided for your convenience.",
+   "kind": "rule",
+   "dur_true": 3.8,
+   "dur_false": null
+  },
+  "rule_f2_3": {
+   "true": "res://audio/voice/rule_f2_3_true.ogg",
+   "false": null,
+   "text": "Please do not leave items outside your unit. Staff will tidy them.",
+   "kind": "rule",
+   "dur_true": 5.498,
+   "dur_false": null
+  },
+  "rule_f2_4": {
+   "true": "res://audio/voice/rule_f2_4_true.ogg",
+   "false": null,
+   "text": "Housekeeping tidies every floor, eventually.",
+   "kind": "rule",
+   "dur_true": 4.088,
+   "dur_false": null
+  },
+  "rule_f2_5": {
+   "true": "res://audio/voice/rule_f2_5_true.ogg",
+   "false": "res://audio/voice/rule_f2_5_false.ogg",
+   "text": "Staff are here to help. If addressed by staff, please answer politely.",
+   "kind": "rule",
+   "dur_true": 5.938,
+   "dur_false": 5.938
+  },
+  "rule_l_1": {
+   "true": "res://audio/voice/rule_l_1_true.ogg",
+   "false": null,
+   "text": "Welcome home.",
+   "kind": "rule",
+   "dur_true": 1.696,
+   "dur_false": null
+  },
+  "rule_l_2": {
+   "true": "res://audio/voice/rule_l_2_true.ogg",
+   "false": null,
+   "text": "Please keep your key card with you at all times.",
+   "kind": "rule",
+   "dur_true": 3.656,
+   "dur_false": null
+  },
+  "rule_l_3": {
+   "true": "res://audio/voice/rule_l_3_true.ogg",
+   "false": null,
+   "text": "All earlier instructions remain in force.",
+   "kind": "rule",
+   "dur_true": 3.368,
+   "dur_false": null
+  },
+  "rule_l_4": {
+   "true": "res://audio/voice/rule_l_4_true.ogg",
+   "false": null,
+   "text": "Checkout is at eleven.",
+   "kind": "rule",
+   "dur_true": 2.208,
+   "dur_false": null
+  },
+  "rule_l_5": {
+   "true": "res://audio/voice/rule_l_5_true.ogg",
+   "false": "res://audio/voice/rule_l_5_false.ogg",
+   "text": "Management is always right.",
+   "kind": "rule",
+   "dur_true": 2.344,
+   "dur_false": 2.344
+  },
+  "welcome_first": {
+   "true": "res://audio/voice/welcome_first_true.ogg",
+   "false": null,
+   "text": "Welcome to The Halcyon. Please review the House Rules.",
+   "kind": "announcement",
+   "dur_true": 4.442,
+   "dur_false": null
+  },
+  "welcome_back": {
+   "true": "res://audio/voice/welcome_back_true.ogg",
+   "false": null,
+   "text": "Welcome back, Guest. Your stay has been extended.",
+   "kind": "announcement",
+   "dur_true": 4.482,
+   "dur_false": null
+  },
+  "floor_b3": {
+   "true": "res://audio/voice/floor_b3_true.ogg",
+   "false": null,
+   "text": "Basement three. Boiler level. Please mind the gap.",
+   "kind": "announcement",
+   "dur_true": 5.212,
+   "dur_false": null
+  },
+  "floor_b2": {
+   "true": "res://audio/voice/floor_b2_true.ogg",
+   "false": null,
+   "text": "Basement two. Natatorium. Please do not run.",
+   "kind": "announcement",
+   "dur_true": 5.044,
+   "dur_false": null
+  },
+  "floor_b1": {
+   "true": "res://audio/voice/floor_b1_true.ogg",
+   "false": null,
+   "text": "Basement one. Blue annex. Please take a number.",
+   "kind": "announcement",
+   "dur_true": 4.764,
+   "dur_false": null
+  },
+  "floor_f1": {
+   "true": "res://audio/voice/floor_f1_true.ogg",
+   "false": null,
+   "text": "Floor one. Offices. Business hours are in effect.",
+   "kind": "announcement",
+   "dur_true": 5.276,
+   "dur_false": null
+  },
+  "floor_f2": {
+   "true": "res://audio/voice/floor_f2_true.ogg",
+   "false": null,
+   "text": "Floor two. Residential units. Quiet hours are in effect.",
+   "kind": "announcement",
+   "dur_true": 5.804,
+   "dur_false": null
+  },
+  "floor_l": {
+   "true": "res://audio/voice/floor_l_true.ogg",
+   "false": null,
+   "text": "Lobby. Welcome home.",
+   "kind": "announcement",
+   "dur_true": 2.61,
+   "dur_false": null
+  },
+  "inspection_open": {
+   "true": "res://audio/voice/inspection_open_true.ogg",
+   "false": null,
+   "text": "Inspection is now in progress. Please remain calm.",
+   "kind": "announcement",
+   "dur_true": 4.946,
+   "dur_false": null
+  },
+  "inspection_done": {
+   "true": "res://audio/voice/inspection_done_true.ogg",
+   "false": null,
+   "text": "Thank you for your cooperation.",
+   "kind": "announcement",
+   "dur_true": 2.84,
+   "dur_false": null
+  },
+  "clause_keep": {
+   "true": "res://audio/voice/clause_keep_true.ogg",
+   "false": null,
+   "text": "You may keep one rule. Please choose carefully.",
+   "kind": "announcement",
+   "dur_true": 3.938,
+   "dur_false": null
+  },
+  "courtesy_pick": {
+   "true": "res://audio/voice/courtesy_pick_true.ogg",
+   "false": null,
+   "text": "Please select a courtesy.",
+   "kind": "announcement",
+   "dur_true": 2.192,
+   "dur_false": null
+  },
+  "elevator_next": {
+   "true": "res://audio/voice/elevator_next_true.ogg",
+   "false": null,
+   "text": "Going up.",
+   "kind": "announcement",
+   "dur_true": 1.456,
+   "dur_false": null
+  },
+  "remark_sprint": {
+   "true": "res://audio/voice/remark_sprint_true.ogg",
+   "false": null,
+   "text": "Guests are reminded that walking is encouraged.",
+   "kind": "remark",
+   "dur_true": 3.552,
+   "dur_false": null
+  },
+  "remark_hide_long": {
+   "true": "res://audio/voice/remark_hide_long_true.ogg",
+   "false": null,
+   "text": "Take all the time you need.",
+   "kind": "remark",
+   "dur_true": 2.416,
+   "dur_false": null
+  },
+  "remark_plant_camera": {
+   "true": "res://audio/voice/remark_plant_camera_true.ogg",
+   "false": null,
+   "text": "Recording is permitted in public areas.",
+   "kind": "remark",
+   "dur_true": 3.288,
+   "dur_false": null
+  },
+  "remark_verdict": {
+   "true": "res://audio/voice/remark_verdict_true.ogg",
+   "false": null,
+   "text": "Your feedback is important to us.",
+   "kind": "remark",
+   "dur_true": 2.744,
+   "dur_false": null
+  },
+  "remark_darkness": {
+   "true": "res://audio/voice/remark_darkness_true.ogg",
+   "false": null,
+   "text": "We apologise for any inconvenience caused by the lighting.",
+   "kind": "remark",
+   "dur_true": 4.472,
+   "dur_false": null
+  },
+  "remark_lamp": {
+   "true": "res://audio/voice/remark_lamp_true.ogg",
+   "false": null,
+   "text": "Please be considerate of other guests.",
+   "kind": "remark",
+   "dur_true": 3.136,
+   "dur_false": null
+  },
+  "remark_door_peek": {
+   "true": "res://audio/voice/remark_door_peek_true.ogg",
+   "false": null,
+   "text": "Please do not loiter in doorways.",
+   "kind": "remark",
+   "dur_true": 2.888,
+   "dur_false": null
+  },
+  "remark_lost": {
+   "true": "res://audio/voice/remark_lost_true.ogg",
+   "false": null,
+   "text": "If you are lost, please remain where you are.",
+   "kind": "remark",
+   "dur_true": 3.632,
+   "dur_false": null
+  },
+  "remark_brace": {
+   "true": "res://audio/voice/remark_brace_true.ogg",
+   "false": null,
+   "text": "Staff will be with you shortly.",
+   "kind": "remark",
+   "dur_true": 2.88,
+   "dur_false": null
+  },
+  "remark_clause_break": {
+   "true": "res://audio/voice/remark_clause_break_true.ogg",
+   "false": null,
+   "text": "That rule no longer applies to you. It has been a pleasure.",
+   "kind": "remark",
+   "dur_true": 4.794,
+   "dur_false": null
+  },
+  "remark_bulb": {
+   "true": "res://audio/voice/remark_bulb_true.ogg",
+   "false": null,
+   "text": "Fixtures are the property of the management.",
+   "kind": "remark",
+   "dur_true": 3.304,
+   "dur_false": null
+  },
+  "housekeeping_warn": {
+   "true": "res://audio/voice/housekeeping_warn_true.ogg",
+   "false": null,
+   "text": "Housekeeping will be with you shortly.",
+   "kind": "announcement",
+   "dur_true": 3.192,
+   "dur_false": null
+  },
+  "housekeeping_arrive": {
+   "true": "res://audio/voice/housekeeping_arrive_true.ogg",
+   "false": null,
+   "text": "Housekeeping is now in progress.",
+   "kind": "announcement",
+   "dur_true": 3.072,
+   "dur_false": null
+  },
+  "blackout_1": {
+   "true": "res://audio/voice/blackout_1_true.ogg",
+   "false": null,
+   "text": "Your stay has been extended.",
+   "kind": "system",
+   "dur_true": 2.64,
+   "dur_false": null
+  },
+  "blackout_2": {
+   "true": "res://audio/voice/blackout_2_true.ogg",
+   "false": null,
+   "text": "We apologise for any inconvenience.",
+   "kind": "system",
+   "dur_true": 3.264,
+   "dur_false": null
+  },
+  "blackout_3": {
+   "true": "res://audio/voice/blackout_3_true.ogg",
+   "false": null,
+   "text": "Please do not be alarmed. This happens to everyone.",
+   "kind": "system",
+   "dur_true": 4.298,
+   "dur_false": null
+  },
+  "audit_open": {
+   "true": "res://audio/voice/audit_open_true.ogg",
+   "false": null,
+   "text": "Welcome home, Guest. We have prepared your file.",
+   "kind": "ending",
+   "dur_true": 4.482,
+   "dur_false": null
+  },
+  "audit_clause": {
+   "true": "res://audio/voice/audit_clause_true.ogg",
+   "false": null,
+   "text": "You have kept the following rules.",
+   "kind": "ending",
+   "dur_true": 2.736,
+   "dur_false": null
+  },
+  "audit_checkout": {
+   "true": "res://audio/voice/audit_checkout_true.ogg",
+   "false": null,
+   "text": "Checkout is at eleven. It was always at eleven.",
+   "kind": "ending",
+   "dur_true": 4.202,
+   "dur_false": null
+  },
+  "audit_desk": {
+   "true": "res://audio/voice/audit_desk_true.ogg",
+   "false": null,
+   "text": "The desk is yours, if you want it.",
+   "kind": "ending",
+   "dur_true": 2.872,
+   "dur_false": null
+  },
+  "audit_burn": {
+   "true": "res://audio/voice/audit_burn_true.ogg",
+   "false": null,
+   "text": "You have been a wonderful guest. That is unfortunate.",
+   "kind": "ending",
+   "dur_true": 4.306,
+   "dur_false": null
+  }
+ }
+}

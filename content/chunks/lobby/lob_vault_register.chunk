@@ -1,0 +1,18 @@
+; The guest register room: a tape on the floor.
+id: lob_vault_register
+beat: side
+floors: lobby
+tags: vault
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+##########
+#k..L..k.#
+#.......H#
+#.t.dd.i.#
+#........#
+4..a.L...#
+#k.p.k..a#
+##########

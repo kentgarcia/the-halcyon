@@ -1,0 +1,29 @@
+; The Audit stage, boardroom: tests staged around a long table, Management's desk at the north end, doors W and E.
+id: lob_exam_boardroom
+beat: exam
+floors: lobby
+tags: audit, stage
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+###########################
+#a..m..H.....u.....H..m..a#
+#.........ddddddd.........#
+#..h...................h..#
+#...L....P.L...L.P....L...#
+#H....u.............u....H#
+#.......L....L....L.......#
+#..l.P.....L...L.....P.l..#
+#.......q.q.q.q.q.q.......#
+<...L...ddddddddddd...L...>
+#.......q.q.q.q.q.q.......#
+#C...P.....L...L.....P...C#
+#.......L....l....L.......#
+#H....u.............u....H#
+#...L....P.l.u.l.P....L...#
+#..h...L...........L...h..#
+#............L............#
+#a..p.mH...........Hm.p..a#
+#############3#############

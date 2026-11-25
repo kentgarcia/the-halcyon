@@ -1,0 +1,22 @@
+; Ash room: a hopper block, grating rails and a pit. Entry from the south.
+id: boi_choice_ash_hopper
+beat: choice
+floors: boiler
+tags: hopper, grating, cupboards
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+############^####
+#.g.nPPPP.......#
+#....PPPP..|....#
+<..L..H.H..|.l..#
+#..........|....#
+#......L.......H#
+#_____..._______#
+#.............L.#
+#H.l....L...l...#
+#..............b#
+#n...l...n....H.#
+###3#############

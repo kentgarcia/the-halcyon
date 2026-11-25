@@ -1,0 +1,28 @@
+; The drained pool basin: 28x16 open floor, lane lines, lane posts, ladders, the high lifeguard chair (u) at the far wall.
+id: nat_long_drained_basin
+beat: long
+floors: natatorium
+tags: basin, lifeguard_chair
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+#############^################
+#a..HH..P..e..HH...P..e.HH...#
+#..L.........l.........l....g#
+#..P,,,,L,,,,,,,,,l,,,,,,,PL.#
+#............................#
+#g..............l....l.......#
+#..P,,,,,,,,,,,,,,,,,,,,,,P..#
+#...........................P#
+#..L....L....l....L....L...Lu#
+#..P,,,,,,,,,,,,,,,,,,,,,,P.P#
+#x...........................#
+#....L.....l.................#
+#..P,,,,,,,,,,,,,,,,,,,,,,P..#
+4............................#
+#W.L....L....L....l....L...L.#
+#.W..........................#
+#....HH..e.Pg..HH..e..P..H...#
+#####################v########

@@ -1,0 +1,28 @@
+; A ballroom-ish atrium: two colonnades of four pillars either side of a clear centre lane, a coat check
+; (wardrobes and desks) on the west wall, settees under the north wall. Entries west and south, exits north and east.
+id: uni_long_atrium
+beat: long
+floors: units
+tags: hall, atrium, pillars
+ceiling: large
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+#############^#############
+#a.qqq..p.........p..qqq.a#
+#.........a.....a.........#
+#g.l....l....L....l....l.w#
+#.........................#
+#.h..P...PC......P...P...x#
+#.........................#
+#.h.......................#
+4..L....l....l....L....l..>
+#..i......................#
+#......................i..#
+#H...P...P......CP...P...H#
+#H.......................H#
+#H.l....L....l....l....l.H#
+#........................g#
+#a...p...g..........p....a#
+#############3#############

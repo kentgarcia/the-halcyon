@@ -1,0 +1,17 @@
+; A short straight run of doors: one in the north wall, one in the south, one at the end. Plain, wide and quiet.
+id: uni_choice_door_run
+beat: choice
+floors: units
+tags: corridor, residential
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+########################
+########^###############
+#a..H....T.g.H..p...g.T#
+4.L...L....l.....i.L...>
+#....p........T...H..Ha#
+###############v########
+########################

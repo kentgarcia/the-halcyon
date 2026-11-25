@@ -1,0 +1,17 @@
+; M0 greybox: a hall with pillars, a thin partition and light panels at office spacing.
+id: dev_greybox_hall
+beat: choice
+floors: yellow
+ceiling: medium
+---
+#######################
+#..L...L...L...L....^.#
+#.....................#
+#..P..P..P..P..P..P...#
+#.L...L...l...L...L...#
+4.....................#
+#.L...L...S...L...L...#
+#..P..P..P..P..P..P...#
+#.....................#
+#..L...L...L...L......#
+#######################

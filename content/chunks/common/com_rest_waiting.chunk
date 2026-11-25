@@ -1,0 +1,14 @@
+; Neutral waiting area. Warm, every panel lit: chairs under the horn, a cooler by the door, charger on the far wall.
+id: com_rest_waiting
+beat: rest
+ceiling: small
+tags: lit, rest
+weight: 0.4
+---
+############
+#a.q.q.q..x#
+#.L...L...L#
+4..........>
+#.L...L...L#
+#w.m..r..q.#
+############

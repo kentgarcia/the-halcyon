@@ -1,0 +1,21 @@
+; Staff lounge: warm, fully lit, two small chair groups, charger and PA horn on the north wall.
+id: blu_rest_annex_lounge
+beat: rest
+floors: blue
+tags: rest
+ceiling: small
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+###############
+#a...r...m...a#
+#..L...L...L..#
+#..qqq...qqq.x#
+#.............#
+4......L......>
+#.............#
+#..qqq...qqq..#
+#..L...L...L..#
+#w.........p.a#
+###############

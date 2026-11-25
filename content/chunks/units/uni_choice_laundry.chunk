@@ -1,0 +1,20 @@
+; The laundry: ironing tables to hide under, linen stacked in the corners, three doors.
+id: uni_choice_laundry
+beat: choice
+floors: units
+tags: laundry
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+#######^#######
+#zz.........zz#
+#g..L.....l..g#
+#............H#
+4...hh.L.hh...#
+#.............>
+#w............#
+#...l..i..l..H#
+#zz..........p#
+#######v#######

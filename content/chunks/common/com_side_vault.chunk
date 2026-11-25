@@ -1,0 +1,14 @@
+; Neutral vault: a locked-away store room. A tape on the middle shelf, a spare item on the floor.
+id: com_side_vault
+beat: side
+ceiling: small
+tags: vault
+weight: 0.4
+---
+#########
+#kk.L.kk#
+#.......#
+4.......#
+#...t...#
+#.z...i.#
+#########

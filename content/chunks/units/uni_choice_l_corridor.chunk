@@ -1,0 +1,28 @@
+; L-shaped residential corridor: a door north, a door east round the bend and one at the foot; trays by every door.
+id: uni_choice_l_corridor
+beat: choice
+floors: units
+tags: corridor, residential
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+#######^##############
+4.Lp....T..H..lH...a##
+#g..H.L...l..H..i.L.##
+##################..##
+##################.l##
+##################wg##
+##################H.##
+##################l.##
+##################.T##
+##################..>#
+##################..##
+##################pL##
+##################..##
+##################.H##
+##################l.##
+##################.T##
+##################v###
+######################

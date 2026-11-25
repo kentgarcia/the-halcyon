@@ -1,0 +1,20 @@
+; Neutral dog-leg: come in at the top of the long leg, the rest of the room is hidden round the corner.
+id: com_choice_dogleg
+beat: choice
+ceiling: medium
+tags: office
+weight: 0.4
+---
+##1###############
+#....#############
+#.L..#############
+#g...#############
+#....#############
+<....#############
+#.l.H#############
+#....#############
+#................#
+#..L...L....l....#
+#..z.............>
+#.a.....L....l...#
+###########v######

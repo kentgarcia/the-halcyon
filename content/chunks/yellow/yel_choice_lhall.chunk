@@ -1,0 +1,24 @@
+; An L-shaped hall: in at the west end of the long leg, the corner hides the leg that runs south.
+; Doors: north wall (near), a door in the inner wall of the south leg, and the far south end. A dead pair sits in the middle of the long leg.
+id: yel_choice_lhall
+beat: choice
+floors: yellow
+tags: office, hall
+weight: 1
+ceiling: medium
+---
+########^#############
+#C..g........p.......#
+4........l...........#
+#..L..P.....P..L...L.#
+#H.......l...........#
+#.L.......g..........#
+################.....#
+################k.l.w#
+################.....#
+################..P..#
+###############<....g#
+################.....#
+################..L..#
+################dh.za#
+##################v###

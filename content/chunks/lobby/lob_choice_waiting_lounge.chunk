@@ -1,0 +1,21 @@
+; Waiting lounge: four seating groups, perfectly symmetrical; doors W, E and N, you come in from the south.
+id: lob_choice_waiting_lounge
+beat: choice
+floors: lobby
+tags: lounge, warm, symmetrical
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+#########^#########
+#a.p..p.....p..p.a#
+#...q....L....q...#
+#w.qdqL.a.a.Lqdq.w#
+#.................#
+<..L.....l.....L..>
+#H...............H#
+#C.qdql.....lqdq.C#
+#...q....L....q...#
+#a.....p...p.....a#
+#########3#########

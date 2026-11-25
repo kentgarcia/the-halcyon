@@ -1,0 +1,19 @@
+; A service counter with a gap: the queue side has chairs, the staff side has cabinets and the north door.
+id: blu_choice_counter_hall
+beat: choice
+floors: blue
+tags: counter
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+#######^#######
+#.kkkC....kkk.#
+#g..L.....l...#
+#.hdddd..dddh.#
+#.............>
+4....l.....l..#
+#..qqq..Lqqqig#
+#J...........p#
+###############

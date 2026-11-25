@@ -1,0 +1,29 @@
+; The Annex waiting hall: counters under the north wall, back-to-back chair blocks flanking a rope maze,
+; four pillars with clocks. Entry south (the dispenser is beside it) and west; exits north and east.
+; The suggestion box hangs by the east exit. Lockers and counter desks are the cover.
+id: blu_long_waiting_hall
+beat: long
+floors: blue
+tags: hall, waiting
+ceiling: large
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+###############^###############
+#...hdddh..C.......C..hdddh...#
+#.i...L.....L.....l.....L.....#
+#.............................#
+#g.qqqq...P.........PC..qqqq..#
+#...L.......Y.Y.Y.Y.......l...#
+#p.qqqq.................qqqq.x#
+#.............................#
+4...L.....L....L....l.....L...>
+#.............................#
+#..qqqq.....Y.Y.Y.Y.....qqqq.p#
+#H..l.....................L...#
+#H.qqqq..CP.........P...qqqq.H#
+#H..........Y.Y.Y.Y..........H#
+#.....l.....L.....l.....L...i.#
+#.......g....J........g..p....#
+###############3###############

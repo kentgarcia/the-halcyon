@@ -1,0 +1,31 @@
+; Four service arms meet in a valve chamber; the valve block leaves a 2-wide ring you can run around.
+id: boi_choice_valve_cross
+beat: choice
+floors: boiler
+tags: pipes, junction, loop, cupboards
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+##########^##########
+#########..##########
+#########.n##########
+#########..##########
+#########HL##########
+#########..##########
+#########.l##########
+#######H.....H#######
+#######.....L.#######
+4..H....LPPP..#######
+#n..L....PPP...g.L..>
+#######..PPP....lH..#
+#######.l.l.l.#######
+#######H.....b#######
+###########..########
+###########..########
+###########Hl########
+###########..########
+###########lg########
+###########..########
+############v########

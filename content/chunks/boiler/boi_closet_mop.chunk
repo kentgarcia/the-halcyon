@@ -1,0 +1,16 @@
+; Janitor closet, one dead tube.
+id: boi_closet_mop
+beat: side
+floors: boiler
+tags: closet, dark
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+########
+#i..H..#
+#.zz...#
+#.l....#
+#H....i#
+###3####

@@ -1,0 +1,13 @@
+; Departure elevator car. The car doors are the entry socket (south edge); a clock for the ride.
+id: yel_departure
+beat: departure
+floors: yellow
+ceiling: medium
+tags: lit
+weight: 1
+---
+#####
+#.L.#
+#...#
+#...#
+##3##

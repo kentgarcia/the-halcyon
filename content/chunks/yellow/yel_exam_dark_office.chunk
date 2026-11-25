@@ -1,0 +1,24 @@
+; A long dark open-plan office. Desk banks north and south, a three-wide lane down the middle.
+; Ten S panels (a breaker relights them) and a stretch of four plain dead panels in the middle of the lane that no breaker fixes.
+id: yel_exam_dark_office
+beat: exam
+floors: yellow
+tags: dark, office
+weight: 1
+max_per_floor: 1
+ceiling: medium
+decay: 1
+---
+########################
+#a.....H.......H.......#
+#..qS.q..q..S..q..q.S..#
+#k.dhdd..dddh..hddd...k#
+#..........l...........#
+#............u........g#
+4..S...S...l.u.l.u.S..S>
+#g.....................#
+#..............l.......#
+#k..ddhd..hddd..dddh..k#
+#...Sq..q..qS.q..q.qS..#
+#z......H.......H.....a#
+########################

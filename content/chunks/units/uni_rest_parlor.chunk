@@ -1,0 +1,21 @@
+; The residents' parlour: warm and fully lit, two settee groups, a charger and a PA horn on the north wall.
+id: uni_rest_parlor
+beat: rest
+floors: units
+tags: rest, lit
+ceiling: small
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+###############
+#a...r...m...a#
+#..L...L...L..#
+#w.qqq...qqq.x#
+#.............#
+4......L......>
+#.............#
+#...qq...qq...#
+#..L...L...L..#
+#a.....C...p.a#
+###############

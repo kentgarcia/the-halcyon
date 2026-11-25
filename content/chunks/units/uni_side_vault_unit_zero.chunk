@@ -1,0 +1,17 @@
+; Unit 0: every tray is untouched. A tape on the floor, a wardrobe, two dead panels.
+id: uni_side_vault_unit_zero
+beat: side
+floors: units
+tags: vault, unit
+ceiling: medium
+weight: 0.8
+max_per_floor: 2
+decay: 0
+---
+###########
+#T.l...l.T#
+#.........#
+4.t..i....#
+#.........#
+#T..L..H.T#
+###########

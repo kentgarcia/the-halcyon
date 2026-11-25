@@ -1,0 +1,19 @@
+; A tea room: a table, a charger and a cooler.
+id: blu_rest_tea_room
+beat: rest
+floors: blue
+tags: rest
+ceiling: small
+weight: 0.8
+max_per_floor: 1
+decay: 0
+---
+#############
+#a.r.....m.a#
+#p.L.ddd.L..#
+#....q.q....#
+4.....L.....>
+#...........#
+#..L.qqq.L..#
+#w.........a#
+#############

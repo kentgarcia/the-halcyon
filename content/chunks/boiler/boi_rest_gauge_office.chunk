@@ -1,0 +1,18 @@
+; Operators' break room: warm, fully lit, charger by the door.
+id: boi_rest_gauge_office
+beat: rest
+floors: boiler
+tags: lit, warm, rest
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+############
+#La.p.m..L.#
+#..........#
+4.q.dd.q...#
+#...L......>
+#C.q..q...w#
+#.r.L....L.#
+############

@@ -1,0 +1,13 @@
+; Arrival elevator car. The car doors are the exit socket; the guest spawns inside facing them.
+id: yel_arrival
+beat: arrival
+floors: yellow
+ceiling: medium
+tags: lit
+weight: 1
+---
+#####
+#.L.#
+#...#
+#.u.#
+##v##

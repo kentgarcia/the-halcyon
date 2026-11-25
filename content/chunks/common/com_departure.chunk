@@ -1,0 +1,12 @@
+; Neutral elevator car you leave in. The car doors are the entry socket.
+id: com_departure
+beat: departure
+ceiling: small
+tags: lit
+weight: 0.4
+---
+##1##
+#...#
+#.L.#
+#...#
+#####

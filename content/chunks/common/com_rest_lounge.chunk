@@ -1,0 +1,16 @@
+; Neutral lounge: a low table in the middle, chairs at the corners, PA horn over the charger.
+id: com_rest_lounge
+beat: rest
+ceiling: small
+tags: lit, rest
+weight: 0.4
+---
+####1######
+#w.L...L.a#
+#.q.....q.#
+#.........#
+#.L..d..L.>
+#.........#
+#.q.....q.#
+#r.L...L.m#
+###########

@@ -1,0 +1,26 @@
+; A plus-shaped junction with a column in the plaza. In from the south arm; north, west and east arms each end in a door.
+; The north and east arms are dark; the west arm is lit.
+id: yel_choice_crossroads
+beat: choice
+floors: yellow
+tags: office, junction
+weight: 1
+ceiling: medium
+---
+########^########
+#######...#######
+#######g..#######
+#######.l.#######
+#######H..#######
+#######..H#######
+######L...l######
+#.p.g..........e#
+<..L....P....l..>
+#.a...........z.#
+######L...L######
+#######...#######
+#######..g#######
+#######.L.#######
+#######..k#######
+#######...#######
+########3########

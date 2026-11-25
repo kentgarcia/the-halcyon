@@ -1,0 +1,37 @@
+; Bent variant of the Greeter corridor: the first leg hides the far end; you round the corner and he is already
+; standing in his doorframe at the south end of the long leg. Doors east and west on the long leg.
+id: uni_exam_greeter_dogleg
+beat: exam
+floors: units
+tags: exam, corridor
+ceiling: medium
+weight: 0.8
+max_per_floor: 1
+decay: 1
+---
+#####################
+#....H...p..H.......#
+4..L...l...L...l..L.#
+#a......H......H....#
+#################...#
+#################...#
+#################Hli#
+#################...#
+#################...#
+#################..H#
+#################.L.#
+#################..T#
+#################..>#
+#################..T#
+#################.l.#
+#################H.w#
+#################.l.#
+#################T..#
+#################<..#
+#################T..#
+#################..H#
+#################HL.#
+#################...#
+#################...#
+##################u##
+#####################

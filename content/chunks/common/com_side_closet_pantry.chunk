@@ -1,0 +1,13 @@
+; Neutral dark pantry: two lockers, one dead lamp, a single item on the shelf end.
+id: com_side_closet_pantry
+beat: side
+ceiling: small
+tags: closet
+weight: 0.4
+---
+######
+#HH.i#
+#....#
+#.l..#
+#..z.#
+##3###

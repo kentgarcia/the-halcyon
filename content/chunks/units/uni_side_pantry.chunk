@@ -1,0 +1,17 @@
+; Pantry: a cooler, crates, wardrobes in the corners, a loot item.
+id: uni_side_pantry
+beat: side
+floors: units
+tags: closet, pantry
+ceiling: medium
+weight: 1.0
+max_per_floor: 2
+decay: 0
+---
+#########
+#w.zz.L.#
+#.......#
+4.......#
+#.l...i.#
+#H.....H#
+#########

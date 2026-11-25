@@ -1,0 +1,12 @@
+; Neutral elevator car (any floor). The car doors are the exit socket; the guest spawns facing them.
+id: com_arrival
+beat: arrival
+ceiling: small
+tags: lit
+weight: 0.4
+---
+#####
+#.L.#
+#...#
+#.u.#
+##v##

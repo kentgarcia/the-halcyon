@@ -1,0 +1,14 @@
+; Supply closet: shelving down the north wall, boxes stacked in the corner, a locker to wait in.
+id: yel_side_closet_supply
+beat: side
+floors: yellow
+ceiling: small
+tags: closet
+weight: 1
+---
+#########
+#kkki.zz#
+#.......#
+4..L....#
+#H......#
+#########

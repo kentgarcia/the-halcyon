@@ -1,0 +1,18 @@
+; Foreman's strongbox room: a tape and a spare.
+id: boi_vault_strongbox
+beat: side
+floors: boiler
+tags: vault
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+##########
+#k..L..k.#
+#.......H#
+#.t..d.i.#
+#.......n#
+4...a....#
+#k...L..k#
+##########

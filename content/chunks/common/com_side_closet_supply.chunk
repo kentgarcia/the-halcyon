@@ -1,0 +1,13 @@
+; Neutral supply closet: boxes stacked to the walls, a locker to hide in, something useful on the floor.
+id: com_side_closet_supply
+beat: side
+ceiling: small
+tags: closet
+weight: 0.4
+---
+#######
+#HL.zi#
+#.....#
+#.z...#
+4.....#
+#######

@@ -1,0 +1,17 @@
+; A long two-wide corridor with nooks off both sides. Two of the nooks have a door at the back; the far end is the third.
+; The two dead panels sit in the middle, over the door nooks.
+id: yel_choice_alcoves
+beat: choice
+floors: yellow
+tags: office, corridor
+weight: 1
+ceiling: medium
+---
+#############^########
+####phk#####a.w#######
+####...#####...#######
+4.L......gl.......L..>
+#..g..L.......l....gL#
+########...#####...###
+########z.e#####dHa###
+#########v############

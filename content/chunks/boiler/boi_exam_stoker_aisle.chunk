@@ -1,0 +1,20 @@
+; Alarm exam: stoker's aisle with a furnace-door cupboard on every wall; west door near, north-mid door and east door far.
+id: boi_exam_stoker_aisle
+beat: exam
+floors: boiler
+tags: alarm, cupboards, corridor
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+########################^#######
+#.H.H.n.H.H.H..g.H.H..H....n.H.#
+<......L.......L.......l.....L.#
+#..L....H..L....H..l.......l..H#
+#......PPPP...PPPPP....PPPP....#
+#H.................L.....H....b#
+#..L...L...L...l.......l...L...>
+#..H..H.g...H...H..H....H..H..H#
+####3###########################
+################################

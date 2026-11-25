@@ -1,0 +1,24 @@
+; L-shaped bench corridor: benches along the north wall, a quiet bend, doors north, east and south.
+id: blu_choice_bench_corridor
+beat: choice
+floors: blue
+tags: corridor, bench
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+#########^###############
+#.qqq.L.....L.qqq..L....#
+4...............i.......#
+#..L..g..l.L.p...l...L..#
+#####################...#
+#####################.LH#
+#####################C..#
+#####################..>#
+#####################H..#
+#####################.l.#
+#####################p.g#
+#####################...#
+#####################.L.#
+######################v##

@@ -1,0 +1,19 @@
+; A reception desk against the north wall, waiting chairs in the south corners. Doors west and east of the waiting area.
+; The lamp over the desk is dead, the lamps over the chairs are not.
+id: yel_choice_reception
+beat: choice
+floors: yellow
+tags: office, reception
+weight: 1
+ceiling: medium
+---
+##############
+#a.kk.C.kH.La#
+#._ddhddd_...#
+#p...........#
+<.....l......>
+#..L......L..#
+#g..........g#
+#.q...l...q..#
+#..q.......qa#
+######3#######

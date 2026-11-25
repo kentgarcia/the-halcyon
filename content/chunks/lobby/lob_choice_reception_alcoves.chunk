@@ -1,0 +1,21 @@
+; A long arcade of reception alcoves, each with a desk; two doors are at the back of alcoves.
+id: lob_choice_reception_alcoves
+beat: choice
+floors: lobby
+tags: alcoves, warm, reception
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+###############################
+################^##############
+###dqa###ahp###...###dqa###ah.#
+###.L.###.q.###aLa###.L.###.q.#
+#k............................#
+4..L...L...L...l...L...L...L..>
+#k............................#
+###.Lq###.L.###.lq###.L.###.q.#
+###ad.###dqa###ad.###a.a###dLa#
+######################v########
+###############################

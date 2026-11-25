@@ -1,0 +1,21 @@
+; Ticket lobby: two chair blocks facing the north wall, dispenser by the south door, a door on three sides.
+id: blu_choice_ticket_hall
+beat: choice
+floors: blue
+tags: waiting
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+########^########
+#.C..p.....p..C.#
+#...L.......L...#
+#g.qqqq.l.qqqq.g#
+#.............i.#
+#..qqqq...qqqq..#
+<.....L...L.....>
+#...............#
+#a..Y.Y.........#
+#.J..l.....L..HH#
+########3########

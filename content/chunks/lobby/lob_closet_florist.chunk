@@ -1,0 +1,16 @@
+; Florist's store.
+id: lob_closet_florist
+beat: side
+floors: lobby
+tags: closet
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+#########
+#a.L..a.#
+#.......#
+4..i..z.#
+#H.....i#
+#########

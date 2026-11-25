@@ -1,0 +1,16 @@
+; Neutral landing: a service core in the middle, a ring walkway around it, doors on three sides.
+id: com_choice_crossing
+beat: choice
+ceiling: medium
+tags: office
+weight: 0.4
+---
+######^######
+#.L...L...l.#
+#g..........#
+#...#####...#
+<...#####...>
+#..H#####H..#
+#....z......#
+#.L......l.a#
+######3######

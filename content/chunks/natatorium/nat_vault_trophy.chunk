@@ -1,0 +1,18 @@
+; Trophy room: a tape on the floor.
+id: nat_vault_trophy
+beat: side
+floors: natatorium
+tags: vault
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+##########
+#k..L..k.#
+#a......H#
+#.t..d.i.#
+#........#
+4....L...#
+#k.n.k..a#
+##########

@@ -1,0 +1,15 @@
+; Security office: monitors off, a desk to hide under, the tape in the drawer by the door.
+id: yel_side_vault_security
+beat: side
+floors: yellow
+ceiling: small
+tags: vault
+weight: 1
+---
+##1######
+#C.L..p.#
+#...d.h.#
+#.t.....#
+#.....i.#
+#k.z...H#
+#########

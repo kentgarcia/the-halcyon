@@ -1,0 +1,31 @@
+; L-shaped variant of the Queue: the line wraps the OUTER corner (north wall, then east wall), twelve+ figures.
+; The slip lane hugs the inner walls. Two window doors flank the board at the far end of the vertical leg.
+id: blu_exam_queue_hall_l
+beat: exam
+floors: blue
+tags: queue, exam
+ceiling: medium
+weight: 0.8
+max_per_floor: 1
+decay: 0
+---
+#######################
+#.J...u.u.u.u.u.u.u.u.#
+4.L.Y.L.Y.l.Y.l.Y.L.L.#
+#.......p....C..i....u#
+###################...#
+###################..u#
+###################.l.#
+###################.Yu#
+###################C..#
+###################.lu#
+###################.Y.#
+###################..u#
+###################.L.#
+###################pY.#
+###################...#
+###################.l.#
+###################.Y.#
+###################.L.#
+###################vnv#
+#######################

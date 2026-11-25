@@ -1,0 +1,20 @@
+; Pipe racks as P runs form long alleys; the straight sightline from the door ends in a riser.
+id: boi_choice_manifold
+beat: choice
+floors: boiler
+tags: pipes, alleys, cupboards
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+##########^###########
+#...H..n.....g.....b.#
+#..L....L....l....L..#
+#..PPPP..PPPP..PPPP.l#
+4....H.....l......P..#
+#.....l.....H..L..P.g#
+#..PPPPPPP..PPP..PP..#
+#..l.....l....L...l..>
+#..H....H....H...n...#
+#####v################

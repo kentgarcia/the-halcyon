@@ -1,0 +1,17 @@
+; Linen closet: stacked sheets, two wardrobes to hide in, a dropped item.
+id: uni_side_linen_closet
+beat: side
+floors: units
+tags: closet, linen
+ceiling: medium
+weight: 1.0
+max_per_floor: 2
+decay: 0
+---
+#########
+#zz.L..H#
+#zz....H#
+4.......#
+#...l...#
+#.i...a.#
+#########

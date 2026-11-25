@@ -1,0 +1,17 @@
+; Ledger vault: a tape left on the floor between the cabinets, a dead pair of panels overhead.
+id: blu_side_vault_ledger
+beat: side
+floors: blue
+tags: vault, records
+ceiling: medium
+weight: 1.0
+max_per_floor: 2
+decay: 0
+---
+###########
+#kk.l.l.kk#
+#.........#
+4.t..i...n#
+#.........#
+#kk..L..kk#
+###########

@@ -1,0 +1,17 @@
+; Supply closet: stacked boxes, two lockers to hide in, a dropped item.
+id: blu_side_supply_closet
+beat: side
+floors: blue
+tags: closet, supply
+ceiling: medium
+weight: 1.0
+max_per_floor: 2
+decay: 0
+---
+#########
+#zz.L..H#
+#zz....H#
+4.......#
+#...l...#
+#.i...Y.#
+#########

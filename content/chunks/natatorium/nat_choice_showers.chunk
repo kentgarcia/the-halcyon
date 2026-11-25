@@ -1,0 +1,20 @@
+; Shower hall: thin-wall stalls along two walls with a 2-wide aisle between.
+id: nat_choice_showers
+beat: choice
+floors: natatorium
+tags: showers, stalls
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+#############^######
+#e|.|e|.|.HH....HH.#
+#.|.|.|.|...L....l.#
+#L|.|l|L|...q.q...g#
+4...L....L....W..L.#
+#........W....l....>
+#g........l|.|.|...#
+#n.L...l...|L|.|l..#
+#.HH..H....|.|.|e..#
+####################

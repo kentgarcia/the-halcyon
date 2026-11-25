@@ -1,0 +1,16 @@
+; Mailroom: pigeonholes down the west wall and a sorting desk with room underneath.
+id: yel_side_closet_mailroom
+beat: side
+floors: yellow
+ceiling: small
+tags: closet
+weight: 1
+---
+##1####
+#.....#
+#k..L.#
+#k....#
+#k..hi#
+#k....#
+#.z...#
+#######

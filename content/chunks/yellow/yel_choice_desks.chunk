@@ -1,0 +1,20 @@
+; Open-plan desk banks in four blocks, a cross of aisles between them and a door at every compass point but west (the entry).
+; Most of the desks can be hidden under (h). A dead lamp at the heart of the cross.
+id: yel_choice_desks
+beat: choice
+floors: yellow
+tags: office, desks
+weight: 1
+ceiling: medium
+---
+#########^########
+#..kk.........w.x#
+#g.q.q..L...q.qL.#
+#..dhdh....hdhd..#
+#................#
+4...L...l....L...>
+#................#
+#..hddh....dhdd..#
+#.l.qq..l..q.q.Lg#
+#H...............#
+#########v########

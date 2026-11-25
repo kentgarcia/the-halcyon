@@ -1,0 +1,25 @@
+; Pillar hall: a forest of columns, a lane of ceiling lights down the middle (row 5) that dies halfway.
+; The near half is lit; the far half is a dead field with one lamp-lit bay by the east door. u = where the far silhouette stands.
+id: yel_long_pillars
+beat: long
+floors: yellow
+tags: office, pillars
+weight: 1
+max_per_floor: 1
+ceiling: large
+---
+#########################
+#a......dhd.k.g......dh.#
+#.L...L...L...l...L...L.#
+#H..P...P...P...P...P...#
+#.......................#
+4.L...L...L...l...l...L.>
+#.................u.....#
+#g..P...P...P...P...P..g#
+#.......................#
+#xL...L...L...l...l...l.#
+#.............u........H#
+#H..P...P...P...P...P...#
+#.L...L...l...L...l...L.#
+#zz.kk...........dhd...a#
+##############v##########

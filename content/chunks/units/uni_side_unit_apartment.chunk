@@ -1,0 +1,19 @@
+; A residential unit, larger than a closet: a bed (the paired desks to hide under), wardrobes, an armchair, a loot item, one dead panel.
+id: uni_side_unit_apartment
+beat: side
+floors: units
+tags: closet, unit, apartment
+ceiling: small
+weight: 1.0
+max_per_floor: 2
+decay: 0
+---
+#############
+#.pLC..L..p.#
+#...........#
+#H..hh.q..i.#
+4...hh......#
+#..a....l..H#
+#...........#
+#T.........w#
+#############

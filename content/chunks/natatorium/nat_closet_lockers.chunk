@@ -1,0 +1,16 @@
+; Locker closet: loot and a hide.
+id: nat_closet_lockers
+beat: side
+floors: natatorium
+tags: closet
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+########
+#HH.L.i#
+#.....z#
+4...i..#
+#HH..n.#
+########

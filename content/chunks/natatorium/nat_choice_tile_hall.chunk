@@ -1,0 +1,19 @@
+; Tiled concourse with a colonnade of pillars, benches, wet-floor signs; three doors.
+id: nat_choice_tile_hall
+beat: choice
+floors: natatorium
+tags: concourse, tiled, pillars
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+##########^###########
+#.a.g..p.....C.p..g..#
+#H.....L...L...L....H#
+#H.L.P...P...PW..P.L.#
+4......W.............>
+#..L.P...P.l.P...P.l.#
+#H.....L.......l...W.#
+#H.qq...q..W........H#
+###############v######

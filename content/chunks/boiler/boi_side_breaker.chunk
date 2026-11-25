@@ -1,0 +1,16 @@
+; Utility closet with a breaker panel.
+id: boi_side_breaker
+beat: side
+floors: boiler
+tags: closet, breaker
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+########
+#b.L.i.#
+#......#
+4..z..H#
+#.n....#
+########

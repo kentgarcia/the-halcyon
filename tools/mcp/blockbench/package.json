@@ -1,0 +1,9 @@
+{
+  "name": "horror-blockbench-mcp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local, pinned install of the Blockbench MCP server used by .mcp.json (server name: bbmodel).",
+  "dependencies": {
+    "blockbench-mcp": "github:jasonjgardner/blockbench-mcp-plugin#97a8a80d3a37bf95c5e136d93d2c7da399fff753"
+  }
+}

@@ -1,0 +1,23 @@
+; The Audit stage: long axial hall; six anchors (five staged tests + Management at the desk), two doors flanking the desk.
+id: lob_exam_audit_hall
+beat: exam
+floors: lobby
+tags: audit, stage
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+#####################################
+#..HH....m.....H..m..H.....m....HH.a#
+#...L.....L.....l.....l.....L.....L.>
+#......P.....P.....P.....P..........#
+#a.......L.hu..L.....l.hu..L...dL..C#
+#....L.........................d....#
+4...L.u...L.....l.....l.....L..d.ua.#
+#....L.........................d....#
+#a.......L.h...L..u..l.h...L.u.dL..C#
+#......P.....P.....P.....P..........#
+#...L.....L.....l.....l.....L.....L.>
+#..HH....m.....H..m..H.....m....HH.a#
+#####################################

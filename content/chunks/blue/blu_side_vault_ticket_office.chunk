@@ -1,0 +1,17 @@
+; A shuttered ticket office: a spare dispenser, a tape in the corner, a locker.
+id: blu_side_vault_ticket_office
+beat: side
+floors: blue
+tags: vault, queue
+ceiling: medium
+weight: 0.8
+max_per_floor: 2
+decay: 0
+---
+#########
+#J.l..t.#
+#...i...#
+4.......#
+#Y.Y.L.H#
+#.....qq#
+#########

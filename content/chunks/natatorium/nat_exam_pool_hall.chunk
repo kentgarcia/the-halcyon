@@ -1,0 +1,28 @@
+; Whistle exam: the chair is on the entry's centre line; changing-room doorways and locker islands are cover everywhere.
+id: nat_exam_pool_hall
+beat: exam
+floors: natatorium
+tags: whistle, lifeguard_chair, lockers
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+#############^###############
+####H.H#####H.H#####HHH######
+####HLH#####HlH#####HLH######
+#..........................n#
+#g........L......L.....L....#
+#..L..HPH....HPH....HP.....e#
+#H.....P......P......PH...L.#
+#...........................#
+#....L........l...W....L...P#
+4..W......W.......L........u#
+#....L................WL...P#
+#...........L...............#
+#H.L.....HP.....HP.l....PH..#
+#.........PH.....PH....HPL.e#
+#g..........................#
+########HLH#####Hl.#####HLH##
+########H.H#####H.H#####HHH##
+#################v###########

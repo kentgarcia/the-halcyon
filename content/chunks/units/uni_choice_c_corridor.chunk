@@ -1,0 +1,20 @@
+; A C-shaped corridor around a solid block: in at the top-left, doors north, east round the back, and west at the bottom.
+id: uni_choice_c_corridor
+beat: choice
+floors: units
+tags: corridor, residential, loop
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+#########^###########
+4..L...p..T.L.H...a##
+#a...H.l........l..##
+#################..##
+#################.L>#
+#################HT##
+#################g.##
+#.T...L.H...i..L...##
+<.L.p.....gl.H.....##
+#####################

@@ -1,0 +1,24 @@
+; Turbine gallery: four turbine blocks in a row, mesh fences (thin walls) fencing a service aisle each side.
+id: boi_long_turbine_gallery
+beat: long
+floors: boiler
+tags: turbine, fence, cupboards
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+####################^###################
+#..H..L.H.n.L...Hg..l.H.l....HbL..H.nL.#
+#.L_________..____________.._________..#
+#H......L..........l........l.........x#
+4......H....L...H............L.....L...#
+#...PPPPPP...PPPPPP...PPPPPP...PPPPPP.H#
+#...PPPPPP...PPPPPP...PPPPPP...PPPPPP..#
+#...PPPPPP...PPPPPP...PPPPPP...PPPPPP..#
+#.L.PPPPPP...PPPPPP...PPPPPP...PPPPPP..#
+#H........L.........l...lH....l...H.L..>
+#.._______________..___________..____..#
+#.L..........L........................H#
+#.H.L..g....H.H.L....H..lH..n.....HL.H.#
+########################################

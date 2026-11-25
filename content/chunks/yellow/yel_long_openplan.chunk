@@ -1,0 +1,24 @@
+; A plain open-plan office: six desk islands, two-wide aisles between them. The west half is lit, the east half has gone dark.
+; Anchors (u) in the dark east aisle; plenty of desks to hide under.
+id: yel_long_openplan
+beat: long
+floors: yellow
+tags: office, openplan
+weight: 0.6
+max_per_floor: 1
+ceiling: large
+---
+##########################
+#a...k.....x.kk....g....w#
+#.L.....L......l......L..#
+#..q.qq...qq.q....qq.....#
+#H.dhdd...ddhd...hddd...H#
+#...qq....q..q...qq.q....#
+#.L.....L......l...u..l..>
+4........................#
+#..q.q.....qqq...qq.q.u..#
+#g.ddhd...hddh...dddh...g#
+#.Lqq.q.l.q.q..l..q.q.l..#
+#H.......................#
+#zz.....................a#
+######################v###

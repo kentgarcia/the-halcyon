@@ -1,0 +1,16 @@
+; Porter's cupboard, one dead tube.
+id: lob_closet_porter
+beat: side
+floors: lobby
+tags: closet
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+########
+#a.l..i#
+#.zz...#
+4......#
+#H.i..H#
+########

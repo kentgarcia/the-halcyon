@@ -1,0 +1,21 @@
+; A cubicle farm: two blocks of back-to-back pods (L-shaped thin partitions | _ +), a two-wide aisle between them and round them.
+; Doors: north and south off the middle aisle, east off the margin. Dead lamps in the heart of the farm.
+id: yel_choice_cubefarm
+beat: choice
+floors: yellow
+tags: office, cubicles
+weight: 1
+ceiling: medium
+---
+#########^##########
+#.kk.L......g.l.w..#
+#p.....L...........#
+#..q.|q.|..q.|q.|..#
+#..d.|d.|l.h.|d.|..#
+4.L__+__+..__+__+.L>
+#..d.|h.|..d.|d.|..#
+#..q.|q.|.lq.|q.|..#
+#a...|..|....|..|.z#
+#..................#
+#....lg.......L..H.#
+##########v#########

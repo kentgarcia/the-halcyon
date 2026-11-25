@@ -1,0 +1,22 @@
+; C-shaped service corridor: you leave by the wall you came in on. Pipe strips with service bays hug the outer walls.
+id: boi_choice_dogleg
+beat: choice
+floors: boiler
+tags: pipes, service, cupboards
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+###########^###########
+#PPPHPPPgPP.PPnPPHPPPP#
+4..L...........L....LP#
+#......L...l.........P#
+###################..g#
+###################l.P#
+###################...>
+###################.lP#
+#....L.......l.......H#
+<.L......L.......l...P#
+#PPHPPPbPPPnPPHPPPHPPP#
+#######################

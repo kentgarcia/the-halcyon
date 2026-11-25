@@ -1,0 +1,24 @@
+; Alarm exam: the north door is near (15 steps), the east door is far (31). Cupboards everywhere; pump house in the middle.
+id: boi_exam_pump_hall
+beat: exam
+floors: boiler
+tags: alarm, cupboards
+weight: 1.0
+max_per_floor: 1
+ceiling: large
+decay: 0
+---
+######^###################
+#..H...gn.H..H...n...H..H#
+#...........L.....l......#
+#H.L.................l...>
+#.........H....H........g#
+#......L.PPPPPPPP.L......#
+#H...L...PPPPPPPP.......b#
+#........PPPPPPPP.....l..#
+#..........H..H....PP....#
+4..L...............PP....#
+#...........L.........l.H#
+#H.....L.........L.......#
+#...H....H....H....H..H..#
+##########################

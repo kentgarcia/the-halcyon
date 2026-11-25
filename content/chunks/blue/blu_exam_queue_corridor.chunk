@@ -1,0 +1,17 @@
+; The Queue (SPEC 6.4): a 3-wide, 28-long corridor. Twelve figures stand along the NORTH wall facing the windows;
+; the dispenser J is at the near end; the board 'n' hangs on the far wall between two window doors. The south row
+; is the slip lane. Row 2 holds alternating panels and rope posts.
+id: blu_exam_queue_corridor
+beat: exam
+floors: blue
+tags: queue, exam
+ceiling: medium
+weight: 1.0
+max_per_floor: 1
+decay: 0
+---
+##############################
+#.J..u.u.u.u.u.u.u.u.u.u.u..>#
+4.L.Y.L.Y.l.Y.l.Y.L.Y.l.Y.L.n#
+#......p....C.......p.i.....>#
+##############################
